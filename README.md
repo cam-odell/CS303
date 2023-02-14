@@ -1,6 +1,6 @@
 # CS303
 
-Download cpp & header file to same directory. All that is required from there is to run assignment1.cpp using a compiler compatible with c++ files. All that is required is to enter values as instructed within the application.
+Download cpp & header file to same directory. All that is required from there is to run assignment1.cpp using a compiler compatible with c++ files. Enter values as instructed within the application.
 Only use integer values for input on index or element in array. You can use non integer values if you'd like to test try/catch functionality that is built into the application.
 
 My screenshots from running the application in terminal.
