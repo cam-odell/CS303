@@ -1,5 +1,5 @@
 # CS303
-COMP-SCI 303 Data Structures
+
 Run code using a compiler compatible with c++ files. All that is required is to enter values as instructed within in the application.
 Only use integer values for input on index or element in array. You can use non integer values if you'd like to test try/catch functionality that is built into the application.
 
