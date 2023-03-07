@@ -7,9 +7,9 @@ I used the CodeBlocks IDE this time, so I needed to create a console application
 hence why I created two separate file paths in github. One for each filepath. The only files you should need are the .cpp and .h files.
 
 Neither project takes user input, all you need to do is download the .cpp and .h file to the same directory and run the .cpp file to obtain the results.
-
-
-
+/
+/
+/
 My screenshots from running the application in terminal:
 
 This is from part 1, my output when testing the various functions for the single linked list.
