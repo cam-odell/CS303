@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678167291 source:c:\users\14175\desktop\cs303\assignment2projpart2\employee_hr_data.cpp
+	"Employee_HR_Data.h"
+
+1678167339 c:\users\14175\desktop\cs303\assignment2projpart2\employee_hr_data.h
+	<string>
+	<iostream>
+	<iomanip>
+
