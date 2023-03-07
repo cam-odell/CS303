@@ -3,7 +3,7 @@
 I created two filepaths under ProjectTwo for this assignment. The first filepath is "PartOne" which is for the Single_Linked_List class.
 The second filepath is for the abstract employee class and derived professional and nonprofessional classes.
 
-I used the CodeBlocks IDE this time, so I needed to create a console application to run the cpp and header files. I did this as two separate projects,
+I used the CodeBlocks IDE this time, so I needed to create a console application to compile the cpp and header files. I did this as two separate projects,
 hence why I created two separate file paths in github. One for each filepath. The only files you should need are the .cpp and .h files.
 
 Neither project takes user input, all you need to do is download the .cpp and .h file to the same directory and run the .cpp file to obtain the results.
